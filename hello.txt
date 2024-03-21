@@ -1,1 +1,7 @@
 my name is efty shan abid
+
+
+function sum()
+{
+    a+b
+}
